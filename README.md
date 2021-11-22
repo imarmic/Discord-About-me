@@ -8,7 +8,7 @@ This is a Node.js Application that gets your Hypixel Bedwars stats and puts them
 3. Run the application `node .`
 
 ## Example: 
-![Picture](https://imgur.com/a/idQsjkN)
+![Picture](https://imgur.com/a/idQsjkN.png)
 
 # Contributing
 If you would like to contribute to this repository, feel free to make a pull request.
