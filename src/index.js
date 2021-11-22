@@ -2,7 +2,6 @@ const Hypixel = require("hypixel-api-reborn")
 const { default: axios } = require("axios")
 const config = require("../config.json")
 
-
 const hypixel = new Hypixel.Client(config.ApiKey);
 
 setInterval(() => { 
@@ -11,5 +10,3 @@ setInterval(() => {
     }).then(() => {
         console.log("Updated")
     })}, 10000)
-
-
