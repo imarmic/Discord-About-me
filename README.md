@@ -5,7 +5,8 @@ This is a Node.js Application that gets your Hypixel Bedwars stats and puts them
 ## Setting It Up
 1. Clone the Repository `https://github.com/ItzArmic/Discord-About-me`
 2. Install dependencies `npm i`
-3. Run the application `node .`
+3. Rename `example-config.json` to `config.json` and fill out the information
+4. Run the application `node .`
 
 ## Example: 
 https://imgur.com/a/idQsjkN.png
