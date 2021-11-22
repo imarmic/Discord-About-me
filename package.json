@@ -1,0 +1,28 @@
+{
+  "name": "discord-about-me",
+  "version": "1.0.0",
+  "description": "Shows your bedwars stats in your discord about me",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzArmic/Discord-About-me.git"
+  },
+  "keywords": [
+    "hypixel",
+    "discord",
+    "bedwars"
+  ],
+  "author": "Armic#0001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItzArmic/Discord-About-me/issues"
+  },
+  "homepage": "https://github.com/ItzArmic/Discord-About-me#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "hypixel-api-reborn": "^9.0.3"
+  }
+}
