@@ -2,6 +2,9 @@
 
 This is a Node.js Application that gets your Hypixel Bedwars stats and puts them as your Discord about me
 
+## ⚠ Warning 
+The application is against Discord's tos and can get you banned. Use at your own risk
+
 ## Setting It Up
 1. Clone the Repository `https://github.com/ItzArmic/Discord-About-me`
 2. Install dependencies `npm i`
