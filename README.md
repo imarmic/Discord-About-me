@@ -6,7 +6,7 @@ This is a Node.js Application that gets your Hypixel Bedwars stats and puts them
 The application is against Discord's tos and can get you banned. Use at your own risk
 
 ## Setting It Up
-1. Clone the Repository `https://github.com/ItzArmic/Discord-About-me`
+1. Clone the Repository `https://github.com/ArmicWD/Discord-About-me`
 2. Install dependencies `npm i`
 3. Rename `example-config.json` to `config.json` and fill out the information
 4. Run the application `node .`
